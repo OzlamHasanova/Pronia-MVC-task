@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\DataAccessPronia\bin\Debug\net6.0\DataAccessPronia.deps.json
+C:\Users\User\source\repos\DataAccessPronia\bin\Debug\net6.0\DataAccessPronia.runtimeconfig.json
+C:\Users\User\source\repos\DataAccessPronia\bin\Debug\net6.0\DataAccessPronia.dll
+C:\Users\User\source\repos\DataAccessPronia\bin\Debug\net6.0\DataAccessPronia.pdb
+C:\Users\User\source\repos\DataAccessPronia\bin\Debug\net6.0\CorePronia.dll
+C:\Users\User\source\repos\DataAccessPronia\bin\Debug\net6.0\CorePronia.pdb
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.AssemblyInfo.cs
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.csproj.CopyComplete
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.dll
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\refint\DataAccessPronia.dll
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.pdb
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\DataAccessPronia.genruntimeconfig.cache
+C:\Users\User\source\repos\DataAccessPronia\obj\Debug\net6.0\ref\DataAccessPronia.dll

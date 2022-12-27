@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CorePonia\bin\Debug\net6.0\CorePronia.deps.json
+C:\Users\User\source\repos\CorePonia\bin\Debug\net6.0\CorePronia.dll
+C:\Users\User\source\repos\CorePonia\bin\Debug\net6.0\CorePronia.pdb
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\CorePronia.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\CorePronia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\CorePronia.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\CorePronia.AssemblyInfo.cs
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\CorePronia.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\CorePronia.dll
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\refint\CorePronia.dll
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\CorePronia.pdb
+C:\Users\User\source\repos\CorePonia\obj\Debug\net6.0\ref\CorePronia.dll
